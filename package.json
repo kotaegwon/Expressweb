@@ -1,0 +1,23 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "moble_Expressweb 실습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotaegwon/Expressweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotaegwon/Expressweb/issues"
+  },
+  "homepage": "https://github.com/kotaegwon/Expressweb#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
